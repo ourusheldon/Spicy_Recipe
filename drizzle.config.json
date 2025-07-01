@@ -1,0 +1,8 @@
+{
+  "schema": "./src/db/schema.js",
+  "out": "./src/db/migrations",
+  "dialect": "postgresql",
+  "dbCredentials": {
+    "url": "postgresql://neondb_owner:npg_K4SiCeBJ1lnI@ep-silent-moon-a91wm4ay-pooler.gwc.azure.neon.tech/neondb?sslmode=require&channel_binding=require"
+  }
+}
